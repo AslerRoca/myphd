@@ -19,6 +19,21 @@
 
 ---
 
+## Contents
+
+- [How I arrived here](#how-i-arrived-here)
+- [1. Finding a supervisor, a topic, and a committee](#1-finding-a-supervisor-a-topic-and-a-committee)
+- [2. Application and admission](#2-application-and-admission)
+- [3. The two pillars of the research phase](#3-the-two-pillars-of-the-research-phase)
+- [4. Monograph or cumulative dissertation](#4-monograph-or-cumulative-dissertation)
+- [5. Writing and submitting the thesis](#5-writing-and-submitting-the-thesis)
+- [6. Evaluation and grading](#6-evaluation-and-grading)
+- [7. The defence (Rigorosum)](#7-the-defence-rigorosum)
+- [8. Publishing the thesis and receiving the Urkunde](#8-publishing-the-thesis-and-receiving-the-urkunde)
+- [References](#references) · [Contacts](#contacts)
+
+---
+
 ## How I arrived here
 
 My road to the doctorate began in **Heilbronn**, a small city some 60 km from Heidelberg yet, by
@@ -34,7 +49,7 @@ is the map I drew as I walked it.
 
 ---
 
-## Finding a supervisor, a topic, and a committee
+## 1. Finding a supervisor, a topic, and a committee
 
 Everything rests on two foundations: a doctoral supervisor (*Doktorvater* or *Doktormutter*) and a
 research question. I was fortunate that **Prof. Dr. med. Mark Oliver Wielpütz** held an idea sitting
@@ -62,7 +77,7 @@ section — write the methodology properly, or it will cost you later.
 
 ---
 
-## Application and admission
+## 2. Application and admission
 
 The faculty publishes the exact document checklist, and it changes from time to time, so the sensible
 move is to work straight from the
@@ -98,7 +113,7 @@ receive no student card, and therefore no *Mensa* discount.
 
 ---
 
-## The two pillars of the research phase
+## 3. The two pillars of the research phase
 
 Two structures define these years: the **TAC meetings** and the **Bluesheet**.
 
@@ -138,7 +153,7 @@ admitted after 8 February 2022.
 
 ---
 
-## Monograph or cumulative dissertation
+## 4. Monograph or cumulative dissertation
 
 When the final TAC meeting is behind you, it is time to open the promotion procedure, and a choice
 presents itself. You may write a classic **monograph**, or — *in exceptional cases, on application to
@@ -151,7 +166,7 @@ going to write this section in full.)*
 
 ---
 
-## Writing and submitting the thesis
+## 5. Writing and submitting the thesis
 
 For the writing itself there is a convenient **LaTeX template** for the Heidelberg medical-faculty
 doctoral thesis, which I used and recommend:
@@ -177,7 +192,7 @@ takes roughly six months.
 
 ---
 
-## Evaluation and grading
+## 6. Evaluation and grading
 
 After submission, and with the *Votum informativum* in hand, the committee verifies the formalities
 and appoints **two impartial reviewers**, at least one from the faculty; they remain anonymous through
@@ -196,7 +211,7 @@ expectation against the current *Promotionsordnung*.
 
 ---
 
-## The defence (Rigorosum)
+## 7. The defence (Rigorosum)
 
 When the email arrives confirming that your thesis has been graded and found sufficient, it will name a
 defence coordinator and the examination board. Keep in mind that the defence is an **examination, not
@@ -219,7 +234,7 @@ on-site defence is the simpler choice.
 
 ---
 
-## Publishing the thesis and receiving the Urkunde
+## 8. Publishing the thesis and receiving the Urkunde
 
 The doctorate is not finished at the defence; the dissertation must still be **published**, and how you
 publish decides what you deposit and where. The faculty describes the routes on its
