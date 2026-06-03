@@ -44,10 +44,9 @@ hangs from them.
 
 The next foundation is the **Thesis Advisory Committee (TAC)**. Besides your supervisor you need at
 least two further, mutually independent members who come from outside your own department or research
-group but bring expertise relevant to your subject. By the regulations, TAC members are *as a rule*
-**habilitated** university teachers — that is, holders of a **PD** or **Professor** title — though the
-faculty also admits experienced post-doctoral researchers such as junior group leaders. In practice,
-**habilitation is the expectation you should plan around.** My own advice on choosing members: favour
+group but bring expertise relevant to your subject. These two members must be **habilitated** — that
+is, holders of a **PD** or **Professor** title; this is the minimum requirement. My own advice on
+choosing members: favour
 people who are genuinely active in research, easy to reach, and quick to reply — you will turn to them
 again and again. The proposed composition of the TAC is submitted with your application and must be
 approved by the *Promotionsausschuss* (the doctoral committee).
@@ -239,11 +238,10 @@ the committee can extend the period on request.
 
 A word on *where* this is handed in, because it confused me too. **In my experience the printed copies
 and the declaration went to the Promotionsbüro, not to the library** — the office took it from there.
-The faculty's current page, by contrast, describes the open-access copies and declaration being
-submitted to the University Library directly. The likeliest reading is that both can be true depending
-on the year and how your office routes it; either way the *opening* copies of the examination procedure
-go to the *Promotionsbüro*, so confirm the destination of the *publication* copies with the office
-before you carry anything anywhere.
+The earlier copies that *open* the examination procedure likewise go to the *Promotionsbüro*; the
+publication copies, in my case, followed the same route. This is my personal account of how it
+happened, not a quotation of the current regulations — **if the procedure has since changed, please let
+me know so I can update this guide to match the present situation.**
 
 The certificate (*Urkunde*) is printed and signed by the dean within about two to three weeks, after
 which it is awarded at the annual ceremony or sent by post to those who cannot attend. One last rule is
