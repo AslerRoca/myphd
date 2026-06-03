@@ -22,14 +22,32 @@
 ## Contents
 
 - [How I arrived here](#how-i-arrived-here)
-- [1. Finding a supervisor, a topic, and a committee](#1-finding-a-supervisor-a-topic-and-a-committee)
-- [2. Application and admission](#2-application-and-admission)
-- [3. The two pillars of the research phase](#3-the-two-pillars-of-the-research-phase)
-- [4. Monograph or cumulative dissertation](#4-monograph-or-cumulative-dissertation)
-- [5. Writing and submitting the thesis](#5-writing-and-submitting-the-thesis)
-- [6. Evaluation and grading](#6-evaluation-and-grading)
-- [7. The defence (Rigorosum)](#7-the-defence-rigorosum)
-- [8. Publishing the thesis and receiving the Urkunde](#8-publishing-the-thesis-and-receiving-the-urkunde)
+- [0. Before the beginning](#0-before-the-beginning)
+  - [0.1 The supervisor](#01-the-supervisor)
+  - [0.2 The Thesis Advisory Committee (TAC)](#02-the-thesis-advisory-committee-tac)
+  - [0.3 The Promotionsvereinbarung and the project concept](#03-the-promotionsvereinbarung-and-the-project-concept)
+- [1. Application and admission](#1-application-and-admission)
+  - [1.1 Assembling and submitting the file](#11-assembling-and-submitting-the-file)
+  - [1.2 The decision and its timing](#12-the-decision-and-its-timing)
+  - [1.3 Enrolment](#13-enrolment)
+- [2. The two pillars of the research phase](#2-the-two-pillars-of-the-research-phase)
+  - [2.1 The TAC meetings](#21-the-tac-meetings)
+  - [2.2 The Bluesheet (240-hour study program)](#22-the-bluesheet-240-hour-study-program)
+- [3. Monograph or cumulative dissertation](#3-monograph-or-cumulative-dissertation)
+- [4. Writing and submitting the thesis](#4-writing-and-submitting-the-thesis)
+  - [4.1 Writing the thesis](#41-writing-the-thesis)
+  - [4.2 The Erstgutachten (Votum informativum)](#42-the-erstgutachten-votum-informativum)
+  - [4.3 Submission and the three-year rule](#43-submission-and-the-three-year-rule)
+- [5. Evaluation and grading](#5-evaluation-and-grading)
+  - [5.1 Reviewers and the procedure](#51-reviewers-and-the-procedure)
+  - [5.2 The grading scale and the publication folklore](#52-the-grading-scale-and-the-publication-folklore)
+- [6. The defence (Rigorosum)](#6-the-defence-rigorosum)
+  - [6.1 Format and the board](#61-format-and-the-board)
+  - [6.2 The remote defence](#62-the-remote-defence)
+- [7. Publishing the thesis and receiving the Urkunde](#7-publishing-the-thesis-and-receiving-the-urkunde)
+  - [7.1 The publication routes](#71-the-publication-routes)
+  - [7.2 Where the copies are handed in](#72-where-the-copies-are-handed-in)
+  - [7.3 The Urkunde](#73-the-urkunde)
 - [References](#references) · [Contacts](#contacts)
 
 ---
@@ -49,7 +67,13 @@ is the map I drew as I walked it.
 
 ---
 
-## 1. Finding a supervisor, a topic, and a committee
+## 0. Before the beginning
+
+Before the clock of your candidacy starts, three things must be in place: a supervisor, a committee,
+and the two documents that open the door. None of this is yet the doctorate proper, but getting it
+right saves you months later.
+
+### 0.1 The supervisor
 
 Everything rests on two foundations: a doctoral supervisor (*Doktorvater* or *Doktormutter*) and a
 research question. I was fortunate that **Prof. Dr. med. Mark Oliver Wielpütz** held an idea sitting
@@ -57,39 +81,52 @@ right at the meeting point of AI and radiology — to score chest X-rays with a 
 visual MRI scores as ground truth. Once supervisor and topic are settled, the rest of the structure
 hangs from them.
 
-The next foundation is the **Thesis Advisory Committee (TAC)**. Besides your supervisor you need at
-least two further, mutually independent members who come from outside your own department or research
-group but bring expertise relevant to your subject. These two members must be **habilitated** — that
-is, holders of a **PD** or **Professor** title; this is the minimum requirement. My own advice on
-choosing members: favour
-people who are genuinely active in research, easy to reach, and quick to reply — you will turn to them
-again and again. The proposed composition of the TAC is submitted with your application and must be
-approved by the *Promotionsausschuss* (the doctoral committee).
+### 0.2 The Thesis Advisory Committee (TAC)
+
+Besides your supervisor you need at least two further, mutually independent members who come from
+outside your own department or research group but bring expertise relevant to your subject. These two
+members must be **habilitated** — that is, holders of a **PD** or **Professor** title; this is the
+minimum requirement. My own advice on choosing them: favour people who are genuinely active in
+research, easy to reach, and quick to reply — you will turn to them again and again. The proposed
+composition of the TAC is submitted with your application and must be approved by the
+*Promotionsausschuss* (the doctoral committee).
+
+### 0.3 The Promotionsvereinbarung and the project concept
 
 Your supervisor's help matters most on the two documents that open the door. The first is the
-**Promotionsvereinbarung** (doctoral agreement), which sets out the framework of the doctorate —
-including export-control declarations and project milestones in roughly six-month intervals — and
-carries the signatures of all TAC members. The second is a short **concept of the doctoral project**
-(*Konzept des Promotionsvorhabens*): background, methods, objectives. *In my experience, both the
-agreement and the concept should be prepared in three copies, each bearing original signatures.* On
-the concept itself, two pages is the right length, and the one mistake to avoid is a thin methods
-section — write the methodology properly, or it will cost you later.
+**[Promotionsvereinbarung](forms/Promotionsvereinbarung_DrScHum_EN.docx)** (doctoral agreement), which
+sets out the framework of the doctorate — including export-control declarations and project milestones
+in roughly six-month intervals — and carries the signatures of all TAC members. The second is a short
+**[concept of the doctoral project](forms/Konzept_Promotionsvorhaben_DrScHum.doc)** (*Konzept des
+Promotionsvorhabens*): background, methods, objectives. *In my experience, both the agreement and the
+concept should be prepared in three copies, each bearing original signatures.* On the concept itself,
+two pages is the right length, and the one mistake to avoid is a thin methods section — write the
+methodology properly, or it will cost you later.
 
 ---
 
-## 2. Application and admission
+## 1. Application and admission
+
+### 1.1 Assembling and submitting the file
 
 The faculty publishes the exact document checklist, and it changes from time to time, so the sensible
 move is to work straight from the
 [official registration page](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/fakultaet/akademische-laufbahn/promotion/promotion-zum-dr-sc-hum/anmeldung)
 rather than from any list I could write here. A few things are worth saying that the page states only
-in passing. You register first in the online portal **heiDOCS** and only then assemble the paper file.
-Signatures must be **original** (electronic ones are tolerated only for TAC members), the copies should
-be on ordinary — not recycled — paper, and the pages must travel **unstapled**. You will gather it all
-into one large envelope and bring it to the *Promotionsbüro*; this envelope-and-mailbox ritual recurs
-at every stage of the doctorate, so you may as well make peace with it early. *(I long remembered the
-building as "INF 670"; the office's official address is in fact **INF 672** — worth checking before
-you make the trip.)*
+in passing. You register first in the online portal **heiDOCS** and only then assemble the paper file
+around the [application for acceptance](forms/Antrag_auf_Annahme_DrScHum_EN.docx). A handful of small
+rules are easy to trip over:
+
+- **Original signatures** throughout — electronic ones are tolerated only for TAC members.
+- **Ordinary paper**, not recycled.
+- Pages **unstapled** and unclamped.
+
+You will gather it all into one large envelope and bring it to the *Promotionsbüro*; this
+envelope-and-mailbox ritual recurs at every stage of the doctorate, so you may as well make peace with
+it early. *(I long remembered the building as "INF 670"; the office's official address is in fact
+**INF 672** — worth checking before you make the trip.)*
+
+### 1.2 The decision and its timing
 
 Once the envelope is in, the process runs on its own rhythm. A secretary in the *Promotionsbüro* checks
 the file; if everything is in order it goes onto the agenda of the next *Promotionsausschuss* meeting,
@@ -106,54 +143,67 @@ therefore no reason to wait idle: you may, and should, begin work while the pape
 decision is negative, you revise the file and submit again for the next meeting; if it is positive,
 you have entered the second phase, the study and research years.
 
-A practical aside on enrolment: once accepted you must **matriculate** as a student at Heidelberg
-University, unless you hold a contract of fifty percent or more with the university or hospital, in
-which case you may ask to be exempt. The trade-off is small but real — without matriculating you
-receive no student card, and therefore no *Mensa* discount.
+### 1.3 Enrolment
+
+Once accepted you must **matriculate** as a student at Heidelberg University, unless you hold a contract
+of fifty percent or more with the university or hospital, in which case you may ask to be exempt. The
+trade-off is small but real — without matriculating you receive no student card, and therefore no
+*Mensa* discount.
 
 ---
 
-## 3. The two pillars of the research phase
+## 2. The two pillars of the research phase
 
 Two structures define these years: the **TAC meetings** and the **Bluesheet**.
 
+### 2.1 The TAC meetings
+
 You will hold **at least three TAC meetings**, and a fourth if circumstances call for it. The pattern
 is the same each time. About a week beforehand you send the members a written progress report; at the
-meeting you present your work, and the members score and comment on the official **TAC report form**
-and sign it at the close. Meetings may be held online, with signatures gathered afterwards. After every
-meeting the completed forms go promptly to the *Promotionsbüro* (the channel I once couldn't recall:
-they are submitted to the doctoral office at **med.promotion@med.uni-heidelberg.de** — confirm the
-current route with them). Keep your own copies of everything: you will need the full set of reports at
-the very end, when you open the examination procedure, so do not discard them once scanned.
+meeting you present your work, and the members score and comment on the official
+**[TAC report form](forms/TAC_Meeting_Report_DrScHum.pdf)** and sign it at the close. Meetings may be
+held online, with signatures gathered afterwards. After every meeting the completed forms go promptly
+to the *Promotionsbüro* (the channel I once couldn't recall: they are submitted to the doctoral office
+at **med.promotion@med.uni-heidelberg.de** — confirm the current route with them). Keep your own copies
+of everything: you will need the full set of reports at the very end, when you open the examination
+procedure, so do not discard them once scanned.
 
-The three meetings carry distinct purposes. The **first**, held within the opening six months, is the
-formal launch of the topic — you present the raw data you have gathered and your first analysis of it.
-(Remember which date the six months count from: the committee's *decision* date, not the day its letter
-arrived.) The **second**, somewhere between roughly twelve and twenty-four months, is the mid-term
-report, best timed for when you have results genuinely worth discussing; the committee may suggest
-adjustments to the project here. The **third**, around twenty-four to thirty-six months, is normally
-the last: by then you should hold enough data that the committee can decide whether you may begin
-writing and prepare to open the promotion procedure. Beyond these official, documented checkpoints,
-you are free to convene as many informal meetings as the work requires.
+The three meetings carry distinct purposes:
 
-The **Bluesheet** is the ledger in which you record the hours of the **structured study program**,
-which should total about **240 hours** and which the faculty sets out in detail in its
-[Ausführungsbestimmungen](#references). It falls into three tiers. The first is **obligatory**: a Good
-Scientific Practice course (around six hours), literature and research seminars carried mainly within
-your own group (some thirty to sixty hours a year, capped at 180 in total), and the three documented
-TAC meetings (ten hours each, thirty in all). The second is **elective-but-required** — you must
-complete at least one of three options, namely methodology courses, laboratory or field practicals, or
-presenting your own work at an external scientific gathering such as a conference or doctoral congress.
-The third tier is **freely elective** and broad: institutional lecture series, further external
-exchange, and training in soft skills and key competencies — scientific writing, presentation, project
-planning, grant-writing for funders such as the DFG, NIH or EU, and the like. Everything is evidenced
-through the Bluesheet together with the individual attendance certificates (candidates inside a funded
-*Graduiertenkolleg* instead receive a Transcript of Records). The Bluesheet is mandatory for everyone
-admitted after 8 February 2022.
+| Meeting | Timing (from your *decision* date) | Purpose |
+|---|---|---|
+| **First** | within the opening **6 months** | Launch the topic — present the raw data gathered and your first analysis. |
+| **Second** | roughly **12–24 months** | Mid-term report; best timed once you have results worth discussing. The committee may suggest adjustments. |
+| **Third** | roughly **24–36 months** | Usually the last: with enough data in hand, the committee decides whether you may begin writing and open the procedure. |
+
+(Remember which date the six months count from: the committee's *decision* date, not the day its
+letter arrived.) Beyond these official, documented checkpoints, you are free to convene as many
+informal meetings as the work requires.
+
+### 2.2 The Bluesheet (240-hour study program)
+
+The **[Bluesheet](forms/Blue_Sheet_DrScHum.pdf)** is the ledger in which you record the hours of the
+**structured study program**, which should total about **240 hours** and which the faculty sets out in
+detail in its
+[Ausführungsbestimmungen](forms/Ausfuehrungsbestimmungen_Studienprogramm.pdf). It falls into three
+tiers:
+
+- **Obligatory** — a Good Scientific Practice course (~6 h); literature and research seminars, mainly
+  within your own group (~30–60 h/year, capped at 180 h); and the three documented TAC meetings (10 h
+  each, 30 h in all).
+- **Elective-but-required** — at least *one* of: methodology courses; laboratory or field practicals;
+  or presenting your own work at an external gathering such as a conference or doctoral congress.
+- **Freely elective** — institutional lecture series, further external exchange, and training in soft
+  skills and key competencies (scientific writing, presentation, project planning, grant-writing for
+  funders such as the DFG, NIH or EU, and the like).
+
+Everything is evidenced through the Bluesheet together with the individual attendance certificates
+(candidates inside a funded *Graduiertenkolleg* instead receive a Transcript of Records). The Bluesheet
+is mandatory for everyone admitted after 8 February 2022.
 
 ---
 
-## 4. Monograph or cumulative dissertation
+## 3. Monograph or cumulative dissertation
 
 When the final TAC meeting is behind you, it is time to open the promotion procedure, and a choice
 presents itself. You may write a classic **monograph**, or — *in exceptional cases, on application to
@@ -166,7 +216,9 @@ going to write this section in full.)*
 
 ---
 
-## 5. Writing and submitting the thesis
+## 4. Writing and submitting the thesis
+
+### 4.1 Writing the thesis
 
 For the writing itself there is a convenient **LaTeX template** for the Heidelberg medical-faculty
 doctoral thesis, which I used and recommend:
@@ -176,31 +228,52 @@ But the writing should not intimidate you: your results have already been guided
 this point you hold the data you need. The aim is simply a clear structure that lets a reader follow
 what you did.
 
+### 4.2 The Erstgutachten (Votum informativum)
+
 Before the thesis can be submitted you need the first review — the **Erstgutachten**, formally the
-**Votum informativum** — written by your supervisor (PromO §10). The handling is deliberately discreet.
-Your supervisor prepares it and sends it to the secretary — for us, in the **Marsilius-Arkaden**, that
-is **Frau Katja Schröder** — and you collect it from her in a **sealed envelope** you are not permitted
-to open. You then carry it, with the rest of your documents, to the *Promotionsbüro*'s mailbox.
+**Votum informativum**, written by your supervisor on the
+[evaluation form](forms/Evaluierungsbogen_ErstGA_DrScHum.pdf) (PromO §10). The handling is deliberately
+discreet. Your supervisor prepares it and sends it to the secretary — for us, in the
+**Marsilius-Arkaden**, that is **Frau Katja Schröder** — and you collect it from her in a **sealed
+envelope** you are not permitted to open. You then carry it, with the rest of your documents, to the
+*Promotionsbüro*'s mailbox.
+
+### 4.3 Submission and the three-year rule
 
 One hard rule governs the timing: at least **three years** must pass between your acceptance as a
 candidate and the submission of the thesis (PromO §8). For the contents of the submission package —
-the bound copies, the affidavit, the statistical sheet, the reviewer proposals and the rest — follow
-the faculty's
+the bound copies, the [affidavit](forms/Belehrung_Eidesstattliche_Versicherung.pdf), the
+[statistical sheet](forms/Statistikbogen.pdf), the
+[reviewer proposals](forms/Gutachtervorschlaege_DrScHum.pdf) and the rest — follow the faculty's
 [submission page](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/en/fakultaet/akademische-laufbahn/promotion/promotion-zum-dr-sc-hum/einreichung-der-dissertation),
 which keeps the authoritative checklist current. From submission to admission to the oral examination
 takes roughly six months.
 
 ---
 
-## 6. Evaluation and grading
+## 5. Evaluation and grading
+
+### 5.1 Reviewers and the procedure
 
 After submission, and with the *Votum informativum* in hand, the committee verifies the formalities
 and appoints **two impartial reviewers**, at least one from the faculty; they remain anonymous through
 the procedure. Should the *Votum informativum* propose the highest grade, two **external** reviewers
-are sought in addition. The scale runs *summa cum laude* (excellent), *magna cum laude* (very good),
-*cum laude* (good), *rite* (sufficient), and *non sufficit* (fail), and the dissertation and the oral
-examination weigh equally in the final mark. A final *summa cum laude* requires both that the overall
-mark be *summa* and that **both external reviews propose *summa*** (PromO §12).
+are sought in addition.
+
+### 5.2 The grading scale and the publication folklore
+
+The scale, with the dissertation and the oral examination weighing equally in the final mark, runs:
+
+| Grade | German | Sense |
+|---|---|---|
+| *summa cum laude* | *ausgezeichnet* | excellent |
+| *magna cum laude* | *sehr gut* | very good |
+| *cum laude* | *gut* | good |
+| *rite* | *genügend* | sufficient |
+| *non sufficit* | *nicht genügend* | fail |
+
+A final *summa cum laude* requires both that the overall mark be *summa* and that **both external
+reviews propose *summa*** (PromO §12).
 
 It is worth being precise here, because folklore abounds. The regulations do **not** tie the grade to
 a number of publications. The often-repeated rule of thumb — one strong paper for *magna*, two or more
@@ -211,7 +284,9 @@ expectation against the current *Promotionsordnung*.
 
 ---
 
-## 7. The defence (Rigorosum)
+## 6. The defence (Rigorosum)
+
+### 6.1 Format and the board
 
 When the email arrives confirming that your thesis has been graded and found sufficient, it will name a
 defence coordinator and the examination board. Keep in mind that the defence is an **examination, not
@@ -222,6 +297,8 @@ You arrange the date with the board and must inform the *Promotionsbüro* **at l
 advance. To pass, every member must confirm at least *rite*; a failed examination may be repeated once
 within twelve months. Since the examiners will question you, my advice is to contact each of them
 beforehand and ask what they expect.
+
+### 6.2 The remote defence
 
 A remote defence is possible but, honestly, not the easy path — I did it from China, so I can describe
 what it costs. You must first write to the *Promotionsbüro* explaining why the examination should be
@@ -234,22 +311,31 @@ on-site defence is the simpler choice.
 
 ---
 
-## 8. Publishing the thesis and receiving the Urkunde
+## 7. Publishing the thesis and receiving the Urkunde
 
 The doctorate is not finished at the defence; the dissertation must still be **published**, and how you
-publish decides what you deposit and where. The faculty describes the routes on its
-[certificate and publication page](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/en/fakultaet/akademische-laufbahn/promotion/promotion-zum-dr-sc-hum/urkunde-fuehrung-des-doktorgrades).
+publish decides what you deposit and where.
 
-If the work has **already appeared in a scientific journal**, you satisfy the obligation through that
-publication and deliver three printed copies of the version examined. If it has **not** been published,
-you publish the dissertation yourself, in open access, through the university library's repository
-**HeiDOK** (<http://archiv.ub.uni-heidelberg.de/volltextserver/>). In that case you upload the PDF and
-then provide a signed **declaration for the publication of electronic dissertations** — your written
-consent to publish the thesis through the library — together with the printed copies and a screenshot
-confirming the upload. (A third route exists — publication as a book in a series with a print run of at
-least a hundred — but it is rare.) The obligation carries a deadline: if you do not meet it **within
-one year** of the oral examination, the rights earned through the doctorate lapse (PromO §13), though
-the committee can extend the period on request.
+### 7.1 The publication routes
+
+The faculty describes the routes on its
+The faculty describes the routes on its
+[certificate and publication page](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/en/fakultaet/akademische-laufbahn/promotion/promotion-zum-dr-sc-hum/urkunde-fuehrung-des-doktorgrades);
+in essence there are three:
+
+- **Already published in a journal** — the obligation is met through that publication; you deliver
+  **three** printed copies of the examined version.
+- **Open access via HeiDOK** (<http://archiv.ub.uni-heidelberg.de/volltextserver/>), the route you
+  take if the work has *not* been published. You upload the PDF, then provide a signed **declaration
+  for the publication of electronic dissertations** — your written consent to publish through the
+  library — with the printed copies and a screenshot confirming the upload.
+- **As a book** in a series, with a print run of at least a hundred — rare in practice.
+
+The obligation carries a deadline: if you do not meet it **within one year** of the oral examination,
+the rights earned through the doctorate lapse (PromO §13), though the committee can extend the period
+on request.
+
+### 7.2 Where the copies are handed in
 
 A word on *where* this is handed in, because it confused me too. **In my experience the printed copies
 and the declaration went to the Promotionsbüro, not to the library** — the office took it from there.
@@ -257,6 +343,8 @@ The earlier copies that *open* the examination procedure likewise go to the *Pro
 publication copies, in my case, followed the same route. This is my personal account of how it
 happened, not a quotation of the current regulations — **if the procedure has since changed, please let
 me know so I can update this guide to match the present situation.**
+
+### 7.3 The Urkunde
 
 The certificate (*Urkunde*) is printed and signed by the dean within about two to three weeks, after
 which it is awarded at the annual ceremony or sent by post to those who cannot attend. One last rule is
@@ -283,15 +371,17 @@ component-level detail.
 - [Promotionsordnung Dr. sc. hum. (2022, PDF)](https://backend.uni-heidelberg.de/de/dokumente/promotionsordnung-der-medizinischen-fakultaeten-dr-sc-hum-2022-05-11/download)
 - [LaTeX thesis template (Overleaf)](https://www.overleaf.com/latex/templates/heidelberg-university-medical-faculty-doctoral-thesis/fzxdxksbfqvm)
 
-**Forms, kept offline in [`forms/`](forms/)** *(the faculty server is slow; local copies spare you the wait)* — application for acceptance
-([source](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/fileadmin/medizinische_fakultaet/Dekanat/Promotion/Dr_sc_hum/2022_03_11_Antrag_auf_Annahme_Drschum_neue_PromO_engl_schreibg.docx)),
-Promotionsvereinbarung
-([source](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/fileadmin/medizinische_fakultaet/Dekanat/Promotion/Dr_sc_hum/2025_07_18_Promotionsvereinbarung_dr_sc_hum_neue_PromO_engl_Exportkontrollrecht_1.docx)),
-project concept
-([source](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/fileadmin/medizinische_fakultaet/Dekanat/Promotion/Dr_sc_hum/Konzept_Promotionsvorhaben_Dr_sc_hum_2016.doc)),
-TAC report form, Bluesheet, study-program Ausführungsbestimmungen, affidavit instruction, statistical
-sheet, reviewer-proposal form, supervisor-evaluation form, and the Promotionsordnung itself — all
-mirrored in the [`forms/`](forms/) folder of this repository.
+**Forms, kept offline in [`forms/`](forms/)** *(the faculty server is slow; local copies spare you the
+wait)* — [application for acceptance](forms/Antrag_auf_Annahme_DrScHum_EN.docx),
+[Promotionsvereinbarung](forms/Promotionsvereinbarung_DrScHum_EN.docx),
+[project concept](forms/Konzept_Promotionsvorhaben_DrScHum.doc),
+[TAC report form](forms/TAC_Meeting_Report_DrScHum.pdf), [Bluesheet](forms/Blue_Sheet_DrScHum.pdf),
+[study-program Ausführungsbestimmungen](forms/Ausfuehrungsbestimmungen_Studienprogramm.pdf),
+[affidavit instruction](forms/Belehrung_Eidesstattliche_Versicherung.pdf),
+[statistical sheet](forms/Statistikbogen.pdf),
+[reviewer-proposal form](forms/Gutachtervorschlaege_DrScHum.pdf),
+[supervisor-evaluation form](forms/Evaluierungsbogen_ErstGA_DrScHum.pdf), and the
+[Promotionsordnung](forms/Promotionsordnung_DrScHum_2022.pdf) itself.
 
 ---
 
