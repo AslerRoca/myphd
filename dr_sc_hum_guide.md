@@ -1,5 +1,7 @@
 # A Practical Guide to the Dr. sc. hum. at Heidelberg
 
+*by Dr. sc. hum. Shengkai Zhao*
+
 *Medical Faculty of Heidelberg University — Doctor scientiarum humanarum (Dr. sc. hum.)*
 
 > **Why this file exists.** When I started, I had no clue how the Dr. sc. hum. actually works.
