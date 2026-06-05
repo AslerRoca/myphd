@@ -76,10 +76,9 @@ right saves you months later.
 ### 0.1 The supervisor
 
 Everything rests on two foundations: a doctoral supervisor (*Doktorvater* or *Doktormutter*) and a
-research question. I was fortunate that **Prof. Dr. med. Mark Oliver Wielpütz** held an idea sitting
-right at the meeting point of AI and radiology — to score chest X-rays with a model trained against
-visual MRI scores as ground truth. Once supervisor and topic are settled, the rest of the structure
-hangs from them.
+research question. I was fortunate got an idea sitting right at the meeting point of AI and 
+radiology — to score chest X-rays with a model trained against visual MRI scores as ground truth. 
+Once supervisor and topic are settled, the rest of the structure hangs from them.
 
 ### 0.2 The Thesis Advisory Committee (TAC)
 
