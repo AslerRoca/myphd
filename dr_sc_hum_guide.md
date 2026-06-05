@@ -343,7 +343,7 @@ me know so I can update this guide to match the present situation.**
 
 ### 7.3 The Urkunde
 
-The certificate (*Urkunde*) is printed and signed by the dean within about two to three weeks, after
+The certificate (*Urkunde*) is printed and signed by the dean within about two to three weeks after you **submitted those 3 copies of examined version thesis**, after
 which it is awarded at the annual ceremony or sent by post to those who cannot attend. One last rule is
 easy to overlook: **you may not use the doctoral title until the certificate is in your hands.** With
 that, the procedure is complete — and you can finally say goodbye to that mailbox.
