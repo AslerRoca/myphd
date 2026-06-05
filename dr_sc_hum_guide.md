@@ -4,6 +4,8 @@
 
 *Medical Faculty of Heidelberg University — Doctor scientiarum humanarum (Dr. sc. hum.)*
 
+**Languages:** English · [中文](dr_sc_hum_guide.zh.md) · [Deutsch](dr_sc_hum_guide.de.md) · [⏱ Timeline](dr_sc_hum_timeline.md)
+
 > **Why this exists.** When I began, I had no clear picture of how the Dr. sc. hum. actually unfolds.
 > The *Promotionsordnung* (doctoral regulations), the faculty's web pages, and a drawer full of forms
 > all exist — but none of them tells you the *story*: the order things happen in, the documents each
@@ -315,7 +317,6 @@ publish decides what you deposit and where.
 
 ### 7.1 The publication routes
 
-The faculty describes the routes on its
 The faculty describes the routes on its
 [certificate and publication page](https://www.medizinische-fakultaet-hd.uni-heidelberg.de/en/fakultaet/akademische-laufbahn/promotion/promotion-zum-dr-sc-hum/urkunde-fuehrung-des-doktorgrades);
 in essence there are three:
