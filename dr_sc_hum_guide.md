@@ -334,7 +334,7 @@ on request.
 
 ### 7.2 Where the copies are handed in
 
-A word on *where* this is handed in, because it confused me too. **In my experience the printed copies
+A word on *where* these 3 copies of the examined version thesis handed in, because it confused me too. **In my experience the printed copies
 and the declaration went to the Promotionsbüro, not to the library** — the office took it from there.
 The earlier copies that *open* the examination procedure likewise go to the *Promotionsbüro*; the
 publication copies, in my case, followed the same route. This is my personal account of how it
