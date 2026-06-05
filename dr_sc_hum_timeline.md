@@ -30,7 +30,7 @@
 | **≥3 years after acceptance** | [§4.3 Submission](dr_sc_hum_guide.md#43-submission-and-the-three-year-rule) | Submit the thesis package | [affidavit](forms/Belehrung_Eidesstattliche_Versicherung.pdf) · [statistical sheet](forms/Statistikbogen.pdf) · [reviewer proposals](forms/Gutachtervorschlaege_DrScHum.pdf) |
 | **~6 months** | [§5 Evaluation](dr_sc_hum_guide.md#5-evaluation-and-grading) | 2 reviewers (+2 external if *summa* is proposed); thesis and oral exam weigh equally | — |
 | **≥4 weeks' notice** | [§6 Defence](dr_sc_hum_guide.md#6-the-defence-rigorosum) | **Rigorosum**: ~1 h (15–20 min talk + questions), board of ≥4; pass = at least *rite* from all | — |
-| **≤1 year after defence** | [§7.1 Publication](dr_sc_hum_guide.md#71-the-publication-routes) | Publish: journal (3 copies) / HeiDOK open access + declaration / book (≥100 print run) | [HeiDOK](http://archiv.ub.uni-heidelberg.de/volltextserver/) |
+| **≤1 year after defence** | [§7.1 Publication](dr_sc_hum_guide.md#71-the-publication-routes) | Publish — **3 copies** of the examined version in all cases (published, or accepted, counts); **+ a declaration** for electronic publication if not yet published | [HeiDOK](http://archiv.ub.uni-heidelberg.de/volltextserver/) |
 | **~2–3 weeks later** | [§7.3 Urkunde](dr_sc_hum_guide.md#73-the-urkunde) | Receive the **Urkunde** — only now may you use the title | — |
 
 ---

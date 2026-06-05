@@ -79,7 +79,7 @@ aber es richtig zu machen, spart Ihnen später Monate.
 ### 0.1 Die Betreuung
 
 Alles ruht auf zwei Fundamenten: einem Doktorvater bzw. einer Doktormutter und einer Forschungsfrage.
-Ich hatte das Glück, dass **Prof. Dr. med. Mark Oliver Wielpütz** eine Idee hatte, die genau am
+Ich hatte das Glück, eine Idee zu bekommen, die genau am
 Schnittpunkt von KI und Radiologie lag — Röntgen-Thorax-Aufnahmen mit einem Modell zu bewerten, das
 gegen visuelle MRT-Scores als Goldstandard trainiert ist. Sind Betreuung und Thema einmal geklärt,
 hängt der Rest der Struktur daran.
@@ -220,8 +220,7 @@ einreichen, die Ihre peer-reviewten Publikationen zusammenbindet. Der Ausschuss 
 vorab und beurteilt, ob sie einer Monografie wissenschaftlich gleichwertig ist; die Publikationen
 müssen die Promotionsleistung umfassen und Ihnen eindeutig zuzuordnen sein. Die Ordnung legt keine
 magische Zahl an Veröffentlichungen fest, die geläufige „zwei Publikationen" sind also Konvention,
-nicht Gesetz — klären Sie es mit dem Ausschuss. *(Diesen Abschnitt wird Claudia vollständig
-schreiben.)*
+nicht Gesetz — klären Sie es mit dem Ausschuss.
 
 ---
 
@@ -348,9 +347,11 @@ Die Pflicht hat eine Frist: Erfüllen Sie sie nicht **innerhalb eines Jahres** n
 Prüfung, erlöschen alle durch die Promotion erworbenen Rechte (PromO §13), doch auf Antrag kann der
 Ausschuss die Frist verlängern.
 
+In einem Satz: **Sind Ihre Daten bereits veröffentlicht (angenommen zählt auch) → nur 3 Exemplare einzureichen; falls nicht → 3 Exemplare plus eine Erklärung zur Veröffentlichung elektronischer Dissertationen.**
+
 ### 7.2 Wo die Exemplare abgegeben werden
 
-Ein Wort dazu, *wo* dies abgegeben wird, denn es hat auch mich verwirrt. **Nach meiner Erfahrung gingen
+Ein Wort dazu, *wo* diese 3 Exemplare der geprüften Fassung abgegeben werden, denn es hat auch mich verwirrt. **Nach meiner Erfahrung gingen
 die gedruckten Exemplare und die Erklärung ans Promotionsbüro, nicht an die Bibliothek** — das Büro
 übernahm es von dort. Die früheren Exemplare, die das Prüfungsverfahren *eröffnen*, gehen ebenfalls ans
 *Promotionsbüro*; die Veröffentlichungsexemplare gingen in meinem Fall denselben Weg. Dies ist meine
@@ -360,7 +361,7 @@ anpassen kann.**
 
 ### 7.3 Die Urkunde
 
-Die *Urkunde* wird binnen etwa zwei bis drei Wochen von der Dekanin/dem Dekan gedruckt und
+Die *Urkunde* wird, nachdem Sie die **3 Exemplare der geprüften Fassung** eingereicht haben, binnen etwa zwei bis drei Wochen von der Dekanin/dem Dekan gedruckt und
 unterschrieben und anschließend bei der jährlichen Feier überreicht oder denen, die nicht teilnehmen
 können, per Post zugesandt. Eine letzte, leicht zu übersehende Regel: **Sie dürfen den Doktortitel
 erst führen, wenn Sie die Urkunde in Händen halten.** Damit ist das Verfahren abgeschlossen — und Sie
