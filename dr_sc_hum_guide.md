@@ -332,6 +332,8 @@ The obligation carries a deadline: if you do not meet it **within one year** of 
 the rights earned through the doctorate lapse (PromO §13), though the committee can extend the period
 on request.
 
+So short sentence: **your data has been published (accepted also count) -> only 3 copies need to be submitted. If not, 3 copies plus one declaration of the publication of exlectronic dissertations.**
+
 ### 7.2 Where the copies are handed in
 
 A word on *where* these 3 copies of the examined version thesis handed in, because it confused me too. **In my experience the printed copies
