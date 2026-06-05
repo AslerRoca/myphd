@@ -4,7 +4,7 @@
 
 *海德堡大学医学院 —— 人类科学博士（Doctor scientiarum humanarum, Dr. sc. hum.）*
 
-**语言版本：** [English](dr_sc_hum_guide.md) · 中文 · [Deutsch](dr_sc_hum_guide.de.md) · [⏱ 时间线](dr_sc_hum_timeline.md)
+**语言版本：** [English](dr_sc_hum_guide.md) · 中文 · [Deutsch](dr_sc_hum_guide.de.md) · [⏱ 时间线](README.md)
 
 > **为什么写这份指南。** 我刚开始时，对 Dr. sc. hum. 究竟如何推进毫无头绪。*Promotionsordnung*（博士条例）、
 > 学院网页、一抽屉的表格都摆在那里，却没有一份告诉你这件事的*脉络*：步骤的先后、每一步默默需要哪些文件，

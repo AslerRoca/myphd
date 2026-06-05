@@ -4,7 +4,7 @@
 
 *Medical Faculty of Heidelberg University — Doctor scientiarum humanarum (Dr. sc. hum.)*
 
-**Languages:** English · [中文](dr_sc_hum_guide.zh.md) · [Deutsch](dr_sc_hum_guide.de.md) · [⏱ Timeline](dr_sc_hum_timeline.md)
+**Languages:** English · [中文](dr_sc_hum_guide.zh.md) · [Deutsch](dr_sc_hum_guide.de.md) · [⏱ Timeline](README.md)
 
 > **Why this exists.** When I began, I had no clear picture of how the Dr. sc. hum. actually unfolds.
 > The *Promotionsordnung* (doctoral regulations), the faculty's web pages, and a drawer full of forms

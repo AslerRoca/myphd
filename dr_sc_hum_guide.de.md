@@ -4,7 +4,7 @@
 
 *Medizinische Fakultät der Universität Heidelberg — Doctor scientiarum humanarum (Dr. sc. hum.)*
 
-**Sprachen:** [English](dr_sc_hum_guide.md) · [中文](dr_sc_hum_guide.zh.md) · Deutsch · [⏱ Zeitleiste](dr_sc_hum_timeline.md)
+**Sprachen:** [English](dr_sc_hum_guide.md) · [中文](dr_sc_hum_guide.zh.md) · Deutsch · [⏱ Zeitleiste](README.md)
 
 > **Warum es diesen Leitfaden gibt.** Als ich anfing, hatte ich keine klare Vorstellung davon, wie der
 > Dr. sc. hum. tatsächlich abläuft. Die *Promotionsordnung*, die Webseiten der Fakultät und eine
