@@ -211,7 +211,7 @@ together your peer-reviewed publications. The committee approves this form in ad
 whether it is scientifically equivalent to a monograph; the publications must cover the doctoral work
 and be clearly attributable to you. The regulations fix no magic number of papers, so the familiar
 "two publications" figure is convention rather than law — confirm it with the committee.
----
+
 
 ## 4. Writing and submitting the thesis
 
