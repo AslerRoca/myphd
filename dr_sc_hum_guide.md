@@ -210,9 +210,7 @@ the Promotionsausschuss before you write* (PromO §7) — submit a **cumulative*
 together your peer-reviewed publications. The committee approves this form in advance and judges
 whether it is scientifically equivalent to a monograph; the publications must cover the doctoral work
 and be clearly attributable to you. The regulations fix no magic number of papers, so the familiar
-"two publications" figure is convention rather than law — confirm it with the committee. *(Claudia is
-going to write this section in full.)*
-
+"two publications" figure is convention rather than law — confirm it with the committee.
 ---
 
 ## 4. Writing and submitting the thesis
